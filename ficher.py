@@ -2,6 +2,9 @@ print("Another file")
 
 a = input("Input info")
 
-b = input('****')
 
-c = 56
+b = input('!')
+
+c = 24
+
+print('Magnus')
