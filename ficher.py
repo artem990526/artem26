@@ -2,6 +2,6 @@ print("Another file")
 
 a = input("Input info")
 
-b = input()
+b = input('****')
 
-c = 24
+c = 56
